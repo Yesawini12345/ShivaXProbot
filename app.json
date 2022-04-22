@@ -1,6 +1,6 @@
 {
        "name": "ShivaXProbot",
-      "description": "An Anime themed Telegram group management bot.",
+      "description": "An Anime Telegram group management bot.",
       "logo": "https://telegra.ph/file/7dee5329799752c6d4c66.jpg",
       "keywords": [
          "telegram",
@@ -20,7 +20,7 @@
    ],
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "Your bot token. Get one from @BotFather",
          "required": true,
          "value": ""
       },
